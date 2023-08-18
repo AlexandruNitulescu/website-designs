@@ -2,30 +2,30 @@
 
 ## Alexandra Jewelry:
 Crafted in Figma for wireframes and mockups, then brought to life with React, Vite, and TailwindCSS. A luxury jewelry site with a minimalist design.
-![alexandra_1](https://github.com/AlexandruNitulescu/website-designs/assets/61834395/92d23200-4c28-4205-a981-d1fc12a48d62)
-![alexandra_2](https://github.com/AlexandruNitulescu/website-designs/assets/61834395/0899d4bc-cd05-43a0-8da1-499ebad3c5e9)
-![alexandra_3](https://github.com/AlexandruNitulescu/website-designs/assets/61834395/f35fb6be-eeeb-4e12-ac72-f624cb0d32b1)
+![alexandra_1](https://github.com/AlexandruNitulescu/website-designs/assets/61834395/327cd1aa-f799-40ac-b2b1-859f60d3048b)
+![alexandra_2](https://github.com/AlexandruNitulescu/website-designs/assets/61834395/6be3c3be-8741-4fd4-8598-367fabea9242)
+![alexandra_3](https://github.com/AlexandruNitulescu/website-designs/assets/61834395/03e2c98c-3f88-480c-a63c-764718c9ee58)
 
 ## Portfolio:
 Frontend constructed with React, Vite.js, and TailwindCSS. Backend utilizes Python with FastAPI, featuring a contact system stored in a Postgres database hosted on ElephantSQL cloud.
-![p1](https://github.com/AlexandruNitulescu/website-designs/assets/61834395/b65937df-952e-435d-b37e-abf5ab42ad20)
-![p2](https://github.com/AlexandruNitulescu/website-designs/assets/61834395/f02ab0db-2f44-4584-9515-6e3285a29573)
-![p3](https://github.com/AlexandruNitulescu/website-designs/assets/61834395/6cb5d647-88c0-41c0-ae3f-d85dcb82cff0)
-![p4](https://github.com/AlexandruNitulescu/website-designs/assets/61834395/ca9afcdd-a7c6-4641-8927-3c3697995080)
-![p5](https://github.com/AlexandruNitulescu/website-designs/assets/61834395/bf07cefc-4138-4fcf-a70f-ffc7cd014c33)
+![p1](https://github.com/AlexandruNitulescu/website-designs/assets/61834395/6f99d8fa-08eb-44b4-9908-39202c4f447c)
+![p2](https://github.com/AlexandruNitulescu/website-designs/assets/61834395/6164c6a2-8130-49a7-a8a2-c683ca516955)
+![p3](https://github.com/AlexandruNitulescu/website-designs/assets/61834395/f5639b89-deed-4499-831d-ec7471d83e10)
+![p4](https://github.com/AlexandruNitulescu/website-designs/assets/61834395/4902fb81-cc56-439d-988e-0019c209f1fc)
+![p5](https://github.com/AlexandruNitulescu/website-designs/assets/61834395/94c53dab-91e7-4e87-84a9-5c6bc82f382d)
 
 ## Wearwave:
 Developed using React, Vite, TailwindCSS, and Python's FastAPI. An e-commerce platform showcasing product details and a shopping cart, all backed by a database fetching the product data.
-![wearwave_1](https://github.com/AlexandruNitulescu/website-designs/assets/61834395/c709b707-3de0-48df-9870-43842017e39b)
-![wearwave_2](https://github.com/AlexandruNitulescu/website-designs/assets/61834395/2d738e6a-b9b0-40ff-80ff-840b2417c207)
-![wearwave_3](https://github.com/AlexandruNitulescu/website-designs/assets/61834395/9cf6ef96-8d30-449d-acb3-fa0a8e0b9b46)
-![wearwave_4](https://github.com/AlexandruNitulescu/website-designs/assets/61834395/3461586e-010d-4441-9145-bdf88798b4f5)
-![wearwave_5](https://github.com/AlexandruNitulescu/website-designs/assets/61834395/e72ea526-0fec-48df-be89-c531e1d20c30)
-![wearwave_6](https://github.com/AlexandruNitulescu/website-designs/assets/61834395/972555f0-ae6a-4ea5-b6b2-1fa8f0cf0ccb)
+![wearwave_1](https://github.com/AlexandruNitulescu/website-designs/assets/61834395/3f0387be-f29b-4171-83eb-648258abed9d)
+![wearwave_2](https://github.com/AlexandruNitulescu/website-designs/assets/61834395/2fef286a-7068-4d95-a437-8c6472111079)
+![wearwave_3](https://github.com/AlexandruNitulescu/website-designs/assets/61834395/18826161-bb28-4f5f-98a8-8200e13e7e2a)
+![wearwave_4](https://github.com/AlexandruNitulescu/website-designs/assets/61834395/a353a8bc-da89-44a1-940d-0654ad8abcd0)
+![wearwave_5](https://github.com/AlexandruNitulescu/website-designs/assets/61834395/79292ca8-1ba1-477b-af8b-985ffa853080)
+![wearwave_6](https://github.com/AlexandruNitulescu/website-designs/assets/61834395/bbe432b1-8977-4eff-8793-06a6d0788dd9)
 
 ## World Energy API:
 Uses React for the frontend and Python with FastAPI for the backend. Includes user authentication, database integration, and detailed documentation.
-![world_energy_api_1](https://github.com/AlexandruNitulescu/website-designs/assets/61834395/1bf94a3c-9934-42d3-b01d-bfd91ff69263)
-![world_energy_api_2](https://github.com/AlexandruNitulescu/website-designs/assets/61834395/d17e8365-c794-439f-9d5b-552060b84e5c)
-![world_energy_api_3](https://github.com/AlexandruNitulescu/website-designs/assets/61834395/2796f5f1-1e2f-4fb5-a361-9e97f7a2058f)
-![world_energy_api_4](https://github.com/AlexandruNitulescu/website-designs/assets/61834395/68306c6a-4117-4365-8d63-d2e0aa0f9cbf)
+![world_energy_api_1](https://github.com/AlexandruNitulescu/website-designs/assets/61834395/8727388d-e0a1-44f0-88fe-44735b609c9d)
+![world_energy_api_2](https://github.com/AlexandruNitulescu/website-designs/assets/61834395/4f28ddf8-e868-479d-8d73-6a2bfbe69cdf)
+![world_energy_api_3](https://github.com/AlexandruNitulescu/website-designs/assets/61834395/950d7ecc-ef31-4b7e-9c00-3f8df8cc50a1)
+![world_energy_api_4](https://github.com/AlexandruNitulescu/website-designs/assets/61834395/4f4c2998-73c1-4df1-a62a-65a49c45c209)
